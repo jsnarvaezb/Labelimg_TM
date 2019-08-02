@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ch4_20181024043548</folder>
+	<filename>frame9125.jpg</filename>
+	<path>/Volumes/Data/Corresponsabilidad/Ch4_20181024043548/frame9125.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chaleco_azul</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>412</ymin>
+			<xmax>341</xmax>
+			<ymax>707</ymax>
+		</bndbox>
+	</object>
+</annotation>
